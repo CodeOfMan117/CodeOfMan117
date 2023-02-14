@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeOfMan117
 - 👀 I’m interested in Genetics and Bio-Informatics
-- 🌱 I’m currently learning Python, R and Tableau
+- 🌱 I’m currently learning Python, R, Tableau and PowerBI
 - 💞️ I’m looking to collaborate on any bio-informatics or data science projects
 - 📫 Reach me on twitter: @GeneProgram
 
